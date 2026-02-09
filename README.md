@@ -10,7 +10,7 @@ This repository includes:
 
 1) Decision Tree
 
-2)Random Forest Classifier
+2) Random Forest Classifier
 
 3) Gradient Boosting Classifier
 
